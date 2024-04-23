@@ -3820,8 +3820,8 @@ ParticleSystem:
       emitProbability: 1
   LightsModule:
     enabled: 0
-    ratio: 0
-    light: {fileID: 0}
+    ratio: 1
+    light: {fileID: 1853346562386523544, guid: 3c176ba3bc0ea8143bca83d0f5c7d547, type: 3}
     randomDistribution: 1
     color: 1
     range: 1
@@ -3882,7 +3882,7 @@ ParticleSystem:
     intensityCurve:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 1
+      scalar: 5000
       minScalar: 1
       maxCurve:
         serializedVersion: 2
