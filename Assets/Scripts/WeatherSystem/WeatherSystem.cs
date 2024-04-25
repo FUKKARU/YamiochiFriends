@@ -21,7 +21,7 @@ public class WeatherSystem : MonoBehaviour
         }
         if (number == 2)
         {
-            Instantiate(weathers[2], new Vector3(0, 90, 0), Quaternion.identity); //thunder
+            Instantiate(weathers[2], new Vector3(0, 1050, 0), Quaternion.identity); //thunder
         }
         if (number == 3) 
         {

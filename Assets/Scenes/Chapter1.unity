@@ -560,7 +560,7 @@ MonoBehaviour:
   weathers:
   - {fileID: 2050875193200176424, guid: e24719f91b148c44086ac01a58881511, type: 3}
   - {fileID: 8630075840285414719, guid: 8ecbbf21e6bb860439ffa0483aebc436, type: 3}
-  - {fileID: 3440166565625214636, guid: f76819fcdf32b0b4ea8ed3c52a32616f, type: 3}
+  - {fileID: 20115695248287147, guid: 467001a8756d78a4a9208169ec2b6660, type: 3}
   - {fileID: 3239416637237107796, guid: ce192852eba6ca548a1df734025fef30, type: 3}
 --- !u!4 &1834368838
 Transform:
